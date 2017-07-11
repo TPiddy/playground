@@ -1,0 +1,18 @@
+nav {
+  background-color: #2D3A9F;
+
+  .container {
+    height: 50px;
+  }
+
+  .btn {
+    color: #d7d7d7;
+    background: none;
+    border-radius: 0;
+
+    &.active {
+      color: #fff;
+      background-color: #1A1B72;
+    }
+  }
+}

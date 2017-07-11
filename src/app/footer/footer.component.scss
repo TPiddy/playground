@@ -1,0 +1,29 @@
+footer {
+  background-color: #AFAFAF;
+  padding-top: 2rem;
+
+  ul {
+    padding: 0;
+    li {
+      list-style-type: none;
+    }
+  }
+
+  h5 {
+    margin-top: 0;
+  }
+}
+
+.col-centered {
+  float: none;
+  margin: 0 auto;
+}
+
+.social {
+  margin-top: 3rem;
+  .icon {
+    width: 3rem;
+    height: 3rem;
+    margin-right: 0.5rem;
+  }
+}
